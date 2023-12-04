@@ -20,7 +20,7 @@ This project was developed using `Python 3.9`.
 
 #### Create a virtual environment
 
-`python3 -m venv env --without-pip`
+`python3 -m venv env`
 
 #### Activate environment
 
