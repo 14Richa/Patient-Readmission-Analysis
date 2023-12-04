@@ -6,12 +6,21 @@ This project focuses on predictive modeling to foresee hospital readmissions of 
 ## Project Structure
 - `/diabetic_data.csv`: Contains the dataset used in the analysis.
 - `/Readmission_Predictions.ipynb`: Includes Jupyter notebook used for exploratory data analysis, data cleaning, and modeling.
-- `/Final_Report`: Stores the final report and support documentation.
 
 ## Installation and Dependencies
-Ensure you have the following dependencies installed:
-- Python (version 3.8.10)
-- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, etc.
+
+### Create a virtual environment
+
+`python3 -m venv env`
+
+### Activate environment
+
+`source env/bin/activate`
+
+### Install dependencies
+
+`pip install -r requirements.txt`
+
 
 ## Data Sources
 - The dataset spans a decade (1999-2008) and includes records from 130 US hospitals, focusing on diabetic patients.
