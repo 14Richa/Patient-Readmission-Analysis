@@ -3,9 +3,6 @@
 ## Overview
 This project focuses on predictive modeling to foresee hospital readmissions of diabetic patients within 30 days post-discharge. By leveraging a dataset spanning a decade (1999-2008) and covering records from 130 US hospitals, the aim is to enhance healthcare management and patient outcomes.
 
-## Python Version
-This project was developed using `Python 3.9`.
-
 ## Data Sources
 - The dataset spans a decade (1999-2008) and includes records from 130 US hospitals, focusing on diabetic patients.
 - You can access the dataset via the following link: [Diabetes 130-US hospitals for years 1999-2008](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
@@ -15,6 +12,9 @@ This project was developed using `Python 3.9`.
 - `/Readmission_Predictions.ipynb`: Includes Jupyter notebook used for exploratory data analysis, data cleaning, and modeling.
 - `/requirements.txt`: Lists the Python packages and their versions required for this project.
 - `/Final_Report.pdf`: Contains the final report summarizing the analysis, findings, and conclusions.
+
+## Python Version
+This project was developed using `Python 3.9`.
 
 ## Setting Up the Development Environment
 
