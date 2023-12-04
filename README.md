@@ -1,4 +1,4 @@
-# Patient-Readmission-Analysis# Predictive Modeling for Hospital Readmission
+# Predictive Modeling for Hospital Readmission
 
 ## Overview
 This project focuses on predictive modeling to foresee hospital readmissions of diabetic patients within 30 days post-discharge. By leveraging a dataset spanning a decade (1999-2008) and covering records from 130 US hospitals, the aim is to enhance healthcare management and patient outcomes.
