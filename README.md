@@ -9,15 +9,15 @@ This project focuses on predictive modeling to foresee hospital readmissions of 
 
 ## Installation and Dependencies
 
-### Create a virtual environment
+#### Create a virtual environment
 
 `python3 -m venv env`
 
-### Activate environment
+#### Activate environment
 
 `source env/bin/activate`
 
-### Install dependencies
+#### Install dependencies
 
 `pip install -r requirements.txt`
 
