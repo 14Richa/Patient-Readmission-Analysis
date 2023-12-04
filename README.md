@@ -10,6 +10,7 @@ This project focuses on predictive modeling to foresee hospital readmissions of 
 ## Project Structure
 - `/diabetic_data.csv`: Contains the dataset used in the analysis.
 - `/Readmission_Predictions.ipynb`: Includes Jupyter notebook used for exploratory data analysis, data cleaning, and modeling.
+- `/requirements.txt`: Lists the Python packages and their versions required for this project.
 
 ## Setting Up the Development Environment
 
