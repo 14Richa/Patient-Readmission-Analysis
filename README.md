@@ -17,7 +17,7 @@ This project focuses on predictive modeling to foresee hospital readmissions of 
 
 #### Create a virtual environment
 
-`python3 -m venv env`
+`python3.9 -m venv env`
 
 #### Activate environment
 
